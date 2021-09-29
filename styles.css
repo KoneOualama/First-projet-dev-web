@@ -1,0 +1,311 @@
+body{
+
+}
+
+/*navbar*/
+
+.nav-item a{
+    font-size: 25px;
+    position: relative;
+    left: 900px;
+    color: rgb(238, 123, 16);
+    padding: 15px;
+}
+
+.yachou{
+    color: rgb(219, 55, 55);
+}
+
+.carousel-caption{
+    color: blue;
+}
+
+h5{
+    bottom: 300px;
+    position: relative;
+    font-size: 5px;
+    
+}
+
+.paragraphe{
+    bottom: 300px;
+    position: relative;
+    font-size: 45px;
+
+}
+
+.button1{
+    border-radius: 70px;
+    position: relative;
+    padding: 8px;
+    width: 150px;
+    opacity: 0.5;
+    
+}
+
+.button2{
+    border-radius: 70px;
+    position: relative;
+    padding: 8px;
+    width: 150px;
+    opacity: 0.5;
+    
+}
+
+.button{
+    position: relative;
+    bottom: 250px;
+}
+
+.flexbox{
+    display: flex;
+}
+
+
+.parent-container{
+    display: flex;
+}
+
+#chic{
+    display: flex;
+}
+
+ .text{
+     margin-left: 200px;
+     margin-top: 30px;
+ }
+
+
+ .icon{
+    display: flex;
+    align-items: center;
+    
+ }
+
+ .icon h4{
+    font-size: 15px;
+    
+ }
+
+ .text1{
+    margin-top: 150px;
+ }
+
+ .text{
+     margin-left: 200px;
+     top: 90px;
+     color: rgb(50, 121, 68);
+     position: relative;
+     
+ }
+
+ .features-item{
+     display: flex;
+     margin: 50px;
+ }
+
+#pouff{
+    position: relative;
+    top: 100px;
+}
+
+
+.fusee{
+    display: flex;
+    margin: 20px;
+    right: 40px;
+    position: relative;
+    top: 130px;
+}
+
+.fusee h4{
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+.fusee1 h4{
+    font-size: 15px;
+    position: relative;
+    right: 240px;
+    top: 120px;
+   
+
+}
+
+.img{
+    position: relative;
+    right: 300px;
+    top: 150px;
+
+}
+
+.section3{
+    background-image: url("mes-images/slide-02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-top: 260px;
+}
+
+
+
+
+
+.centre h2, h6{
+    text-align: center;
+}
+
+.trois-fusees{
+    position: relative;
+    right: 25px;
+}
+
+/*QUARTRIEME SECTION*/
+.yoo{
+   
+    position: relative;
+    top: 150px;
+    padding: 20px;
+    
+}
+
+.image1{
+    width: 300px;
+    height: 400px;
+}
+
+.image2{
+    width: 300px;
+    height: 400px;
+}
+
+.image3{
+    width: 300px;
+    height: 400px;
+}
+
+.card-deck{
+    position: relative;
+    top: 200px;
+}
+
+
+
+/* Opacité */
+.opacity1 div img {
+	opacity: 1;
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+}
+.opacity1 div:hover img {
+	opacity: .5;
+}
+
+.element{
+    margin-top: 125px;
+}
+
+.element h6{
+    margin-right: 155px;
+    color: #5FB759;
+    font-size: 14px;
+}
+
+.liste ul{
+    margin-top: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: -40px;
+    
+}
+
+.liste ul li{
+    list-style: none;
+    
+}
+
+.liste ul li a{
+    text-decoration: none;
+
+}
+
+.liste ul li a:hover{
+    color: rgb(37, 245, 127);
+}
+
+/*SECTION 5*/
+
+.section5{
+    background-image: url("mes-images/slide-03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    margin-top: 260px;
+}
+
+.troisimages{
+    margin-top: 200px;
+}
+
+.deuxtexte{
+    position: relative;
+    top: 150px;
+    color: white;
+    
+    
+}
+
+.petit{
+    font-size: 15px;
+}
+
+.young{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+  
+ 
+
+    .opacity-color div img {
+        opacity: 1;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    .opacity-color div:hover img {
+        opacity: .5;
+    }
+
+    .section6{
+        background-color: white;
+        height: 600px;
+    }
+
+    .section7{
+        background: url("mes-images/slide-01.jpg");
+        height: 200px;
+        display: flex;
+        
+    }
+
+    .input{
+        width: 450px;
+        height: 45px;
+        border-radius: 50px;
+        color: white;
+        opacity: 0.5;
+    }
+
+    .ticlasse{
+        height: 45px;
+        
+        width: 180px;
+        
+        
+    }
+
+    .ticlasse:hover{
+        color: white;
+    }
